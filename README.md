@@ -10,8 +10,8 @@ ________________________________________________________________________________
 Some Salient features of my programme are as follows : 
 
 
-*	This is the programme replicating behaviour of tar cmd.
-	Input cmd format:
+*	This is the programme replicating behaviour of tar cmd. <br>
+	Input cmd format:<br>
 	tar [functions] [filename.tar] [file(s).txt (if required)]
 
 
